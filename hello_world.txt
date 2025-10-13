@@ -1,0 +1,13 @@
+
+This is my first Git project for [The Odin Project](https://www.theodinproject.com/).
+
+## 🧠 Purpose
+This repository is a simple test to practice using **Git** and **GitHub**.
+
+## 📁 Files
+- `hello_world.txt` — A simple file that prints "Hello, World!"
+
+## 🧰 Skills Practiced
+- Initializing a Git repository
+- Making commits
+- Pushing to GitHub
